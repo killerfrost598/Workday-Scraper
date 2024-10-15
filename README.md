@@ -1,6 +1,25 @@
 # Workday-Scraper
 Python code to extract Job posting information from Workday websites
 
+## How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/killerfrost598/Workday-Scraper.git
+
+Install the Selenium Python package:
+
+  ```bash
+  pip install selenium
+  ```
+
+Ensure you have Chrome browser installed on your desktop.
+
+Run the main file:
+```bash
+python main.py
+```
+
 # How to run
 Clone the repository
 Install the selenium python package (pip install selenium)

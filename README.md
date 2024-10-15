@@ -6,6 +6,7 @@ Python code to extract Job posting information from Workday websites
 **Clone the repository**:
    ```bash
    git clone https://github.com/killerfrost598/Workday-Scraper.git
+```
 
 Install the Selenium Python package:
 

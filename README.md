@@ -22,3 +22,7 @@ python main.py
 ```
 
 you get the outputs in the output folder once extraction is finished.
+
+Note: It only works on windows due to the parallel processing to reduce the extraction time.
+
+Reduce the processes count in main.py if you have less cores.

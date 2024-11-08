@@ -12,6 +12,7 @@ Install the Selenium Python package:
 
   ```bash
   pip install selenium
+  pip install pandas
   ```
 
 Ensure you have Chrome browser installed on your desktop.
